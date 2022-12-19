@@ -1,0 +1,36 @@
+.CaixaMaior{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 180px;
+}
+
+.CaixaInterior{
+display: flex;
+flex-direction: column;
+width: 100%;
+justify-content: center;
+align-items: center;
+}
+
+.CaixaInterior input{
+width: 300px;
+height: 30px;
+font-size: 20px;
+padding-left: 10px;
+border-radius: 10px;
+}
+
+.CaixaInterior button{
+height: 40px;
+margin-top: 10px;
+width: 75px;
+border-radius: 10px;
+}
+
+.CaixaInterior button:hover{
+cursor: pointer;
+}
+
+

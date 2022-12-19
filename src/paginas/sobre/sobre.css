@@ -1,0 +1,15 @@
+
+.appInicial{
+display:flex;
+}
+.posts{
+    
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    }
+
+  
