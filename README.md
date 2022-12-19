@@ -6,8 +6,15 @@ Este é um projeto presente na matéria de Programação Web, onde corrigimos al
 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+
+![localhost_3000_ (1)](https://user-images.githubusercontent.com/115386020/208338597-fe383dc6-fd52-40e6-b76c-3306bfb16051.png)
+
+![localhost_3000_ (2)](https://user-images.githubusercontent.com/115386020/208338706-8b666ae8-6d30-45a7-bf87-60d855ea9905.png)
+
+![musica](https://user-images.githubusercontent.com/115386020/208338917-20eec4f5-d6e9-4eb0-ae2d-67d1a126a39a.png)
+
+
+![regras](https://user-images.githubusercontent.com/115386020/208339016-700611c6-d6f0-4af0-9c7c-75446fcd1cf5.png)
 
 # Tecnologias utilizadas
 ## Back end
