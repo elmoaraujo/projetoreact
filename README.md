@@ -19,6 +19,9 @@ Este é um projeto presente na matéria de Programação Web, onde corrigimos al
 
 ![login](https://user-images.githubusercontent.com/115386020/208531954-8f2d7ff9-134d-4e37-bab8-cf961aaad8b0.png)
 
+# Gerenciamento das tarefas do projeto!
+![TRELLO](https://user-images.githubusercontent.com/115386020/208532536-15b4f615-d284-4da0-bf7b-5012c3cd6d9e.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
