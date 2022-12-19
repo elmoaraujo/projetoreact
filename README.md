@@ -1,4 +1,3 @@
-https://wmazoni-sds1.netlify.app
 
 Este é um projeto presente na matéria de Programação Web, onde corrigimos algumas questões de acessibilidade dentro de uma organização E-sportes chamada LionsElite.
 
@@ -6,6 +5,7 @@ Este é um projeto presente na matéria de Programação Web, onde corrigimos al
 
 
 ## Layout web
+![localhost_3000_](https://user-images.githubusercontent.com/115386020/208339139-f82fb4a4-708b-485c-b698-5abc93e6e34a.png)
 
 ![localhost_3000_ (1)](https://user-images.githubusercontent.com/115386020/208338597-fe383dc6-fd52-40e6-b76c-3306bfb16051.png)
 
