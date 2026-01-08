@@ -1,7 +1,5 @@
-
+## Descrição 
 Este é um projeto presente na matéria de Programação Web, onde corrigimos algumas questões de acessibilidade dentro de uma organização E-sportes chamada LionsElite.
-
-
 
 
 ## Layout web
